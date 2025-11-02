@@ -4,9 +4,9 @@
 下の画像のように、色相を分け蛍光強度を確認することができます。
 
 ### rainbow
-![electorophoresis_rainbow.jpg](/rainbow_bar/electrophoresis_rainbow.jpg)
+![electorophoresis_rainbow.jpg](electrophoresis_rainbow.jpg)
 ### 元画像
-![electorophoresis.jpg](/rainbow_bar/electrophoresis.jpg)
+![electorophoresis.jpg](electrophoresis.jpg)
 
 ## 使用方法
 
